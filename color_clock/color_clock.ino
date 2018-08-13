@@ -6,10 +6,10 @@
 const char* ssid = "your wifi ssid";
 const char* password = "your wifi password";
 
-int color = 0xf800;
+int color = 0xfffe;
 
-int color_h[12] = {color};
-int color_m[60] = {color};
+int color_h[12] = {};
+int color_m[60] = {};
 
 int R = B111111;
 int G = B000000;
