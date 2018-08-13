@@ -5,3 +5,6 @@
 
 ## 実行環境
 M5Stack ＋ ArduinoIDE
+
+## 使い方
+プログラムのssid、passwordを編集した後、M5stackに書き込んでください
